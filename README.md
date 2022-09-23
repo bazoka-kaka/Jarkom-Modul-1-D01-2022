@@ -26,6 +26,14 @@
 </table>
 
 ## Soal 1
+<p>Masuk dalam file soal nomor 1 lalu ketikkan "http.host == monta.if.its.ac.id", maka kan langsung muncul package yang dibutuhkan
+<br>
+<p>Package</p>
+<img src='./imgs/img-1-1.png' alt='Gambar soal 1-1'>
+<p>Pilih salah satu package lalu lakukan "Follow TCP Stream" maka akan muncul hasilnya
+<br>
+<p>Hasil</p>
+<img src='./imgs/img-1-2.png' alt='Gambar soal 1-2'>
 
 ## Soal 2
 
